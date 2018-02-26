@@ -11,6 +11,6 @@ python WooReadFilter.py -1 filename/file1.tagged.filted.fastq -2 filename/file2.
 
 Output files are filename/file1.fastq and filename/file2.fastq
 
-You are welcomed to give suggestions about how to better modify this program after your usage.
+The older version would require more memory but less time; the newer one (with "new" in its end) requires much longer time. Both versions could be used but seem not to be so useful, thus you are welcomed to give suggestions about how to better modify this program after your usage.
 
 WU Yuqian from iSynBio, SIAT, PRC in 20180211
